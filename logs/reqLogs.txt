@@ -1,0 +1,11 @@
+20230227	19:07:50	b14d423d-2163-4c10-953c-aaab158e7ce6	GET	undefined	/
+20230227	19:07:50	3257ea2b-e0d5-4a71-bf90-728093895abd	GET	undefined	/css/style.css
+20230227	19:08:16	d9d64d03-8f2e-4db9-b7d9-1ddead5a9853	GET	undefined	/
+20230227	19:08:16	126b7bf0-669f-42cb-9681-65bb23abca86	GET	undefined	/css/style.css
+20230227	19:09:13	ea24aac5-144d-4da8-a72c-5d2ad46e8746	GET	undefined	/
+20230227	19:09:13	09f5a096-0ead-4bf4-8ee6-5d26866b158f	GET	undefined	/css/style.css
+20230227	19:09:24	7c2f88d5-c00b-4860-ad21-32e36e086823	GET	undefined	/new-page.html
+20230227	19:09:24	7e453a9b-8830-4ec4-9c2f-7bfe7d52926a	GET	undefined	/css/style.css
+20230227	19:09:24	210c2a55-602a-41f9-8410-8a418e2daa5a	GET	undefined	/img/img1.jpg
+20230227	19:10:00	0957cc60-0456-41fa-a2d7-df23cb71f375	OPTIONS	https://www.google.com	/new-page.html
+20230227	19:10:00	ead67dd9-4284-4e8f-8980-9be175a79c66	GET	https://www.google.com	/new-page.html
