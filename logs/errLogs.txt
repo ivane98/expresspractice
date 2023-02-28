@@ -1,0 +1,5 @@
+20230228	13:46:59	a7cac0dd-d4a0-487f-9be0-b4f90123afb4	Error : Not allowed by CORS
+20230228	14:52:58	b047b308-1171-478f-83a3-4ffcc185062f	TypeError : res.json(...).put is not a function
+20230228	16:09:41	629a0c08-20a5-4894-8b48-5a5331c399f7	ReferenceError : pareseInt is not defined
+20230228	16:11:51	9fd43b91-dafa-41a2-9a00-e79cf656cfaf	SyntaxError : Unexpected token } in JSON at position 14
+20230228	16:12:48	567d1829-5479-4b01-b755-f105bc47a3c7	ReferenceError : pareseInt is not defined
